@@ -1,8 +1,8 @@
-# Sophiko Travel Journal
+# Sopiko Travel Journal
 
-React final project created for **Sophiko Baindurashvili**.
+React final project created by **Sopiko Baindurashvili**.
 
-## Live idea
+## idea
 
 The application is a travel/country catalogue. Users can browse countries from a real API, open a modal with details, save countries to a personal list, switch theme and change language.
 
@@ -58,13 +58,7 @@ npm run dev
 npm run build
 ```
 
-## Deploy on Netlify
-
-```txt
-Build command: npm run build
-Publish directory: dist
-```
 
 ## Author
 
-Sophiko Baindurashvili
+Sopiko Baindurashvili
