@@ -1,7 +1,7 @@
 function Footer() {
   return (
     <footer className="footer">
-      <p>Created by Sophiko Baindurashvili · React Final Project</p>
+      <p>Created by Sopiko Baindurashvili · React Final Project</p>
     </footer>
   );
 }
