@@ -1,4 +1,4 @@
-# Sopiko Travel Journal
+# Travel Journal
 
 React final project created by **Sopiko Baindurashvili**.
 
